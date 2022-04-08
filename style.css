@@ -1,0 +1,15 @@
+h1.title {
+  color:rgb(0, 255, 149);
+  font-size: 60px;
+  font-weight: bold;
+  margin: 0;
+  display: block;
+  float: left; }
+
+body {
+  text-align:center;
+  font-family: helvetica;
+}
+canvas {
+  border: 2px solid rgb(151, 149, 149);
+}
